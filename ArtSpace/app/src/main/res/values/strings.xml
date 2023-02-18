@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="art_1">Mona Lisa</string>
+    <string name="art_2">Girl with a Pearl Earring</string>
+    <string name="art_3">The Kiss</string>
+    <string name="artist_1">Leonardo Da Vinci</string>
+    <string name="artist_2">Johannes Vermeer</string>
+    <string name="artist_3">Gustav Klimt</string>
+    <string name="date_1">(1503–1517)</string>
+    <string name="date_2">(1665)</string>
+    <string name="date_3">(1907–1908)</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>
